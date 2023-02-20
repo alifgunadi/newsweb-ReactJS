@@ -1,0 +1,19 @@
+.Navbar {
+    color: black;
+}
+
+.logo {
+    display:flex;
+    color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    font-family: century gothic;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.new {
+    color: rgb(255, 99, 99);
+}
